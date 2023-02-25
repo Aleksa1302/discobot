@@ -1,13 +1,13 @@
 {
-	"prefix":"{COMMAND PREFIX}",
-	"token":"{BOT TOKEN}",
+	"prefix":"!",
+	"token":"MTA3ODQ2ODA4MDAwNDUxMzg3Mg.GFnJeu.pEjCy5WOxuegYBvjz6fEjYJ8lBrVh7CYJbgEwU",
 	"voicechannel":"{VOICE CHANNEL ID}",
 	"logchannel":"{TEXT CHANNEL ID}",
 	"activity":"{DEFAULT BOT ACTIVITY}",
 	"list":[
 	{
-		"name":"{RADIO NAME}",
-		"url":"{RADIO URL}"
+		"name":"The Wave | EDM",
+		"url":"https://radio.eyecay.xyz:8000/radio.mp3"
 	}
 	]
 }
